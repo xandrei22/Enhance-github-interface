@@ -2,7 +2,7 @@
 
 <table width="80%">
   <tr>
-    <td valign="middle" align="right" width="50%">
+    <td valign="middle" align="center" width="100%">
       <img src="https://your-image-url.com/avatar.png" alt="Xandrei Avatar" width="180" height="180" style="border-radius: 50%;"/>
     </td>
     <td valign="middle" width="50%" align="center" style="white-space: nowrap;">

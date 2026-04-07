@@ -92,4 +92,3 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 </tr>
 </table>
 
-IT STILL NOT THE SAME WIDTH

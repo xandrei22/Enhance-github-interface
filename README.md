@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, Anthony here!</h1>
+<h1 align="center">Hi 👋, I am Josh </h1>
 <h3 align="center">
   Software Engineer | Frontend (React, Tailwind) | Automation & AI Workflows
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Engineer+(React+%26+Tailwind);Automation+Developer+(n8n+%26+LLMs);Building+Agentic+Workflows;Continuously+Learning+AI+Trends" alt="Typing SVG" />
+  
 </p>
 
 ---

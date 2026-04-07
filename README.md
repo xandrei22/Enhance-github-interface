@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xandrei</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Xandrei</h1>
 
 <h3 align="center">
   Project Manager • QA Analyst • Fullstack Developer • UI/UX Designer

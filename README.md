@@ -55,9 +55,3 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandrei22&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
-
----
-

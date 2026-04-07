@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josh</h1>
+<h1 align="center">Hi 👋, I'm Xandrei</h1>
 
 <h3 align="center">
   Project Manager • QA Analyst • Fullstack Developer • UI/UX Designer
@@ -15,7 +15,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-026AA7?style=flat&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>

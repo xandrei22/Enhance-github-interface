@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td valign="middle" align="center" width="50%">
-      <img src="<img src=".animatedIT.gif" width="400"/>" width="180" height="180" style="border-radius: 50%;"/>
+      <img src="./animatedIT.gif" width="180" height="180" style="border-radius: 50%;"/>
     </td>
     <td valign="middle" width="50%" align="center" style="white-space: nowrap;">
       <h1 style="margin: 0; font-weight: bold;">

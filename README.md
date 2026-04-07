@@ -1,9 +1,9 @@
 <table width="100%">
   <tr>
-    <td valign="middle" align="right" width="30%">
+    <td valign="middle" align="right" width="50%">
       <img src="https://your-image-url.com/avatar.png" alt="Xandrei Avatar" width="180" height="180" style="border-radius: 50%;"/>
     </td>
-     <td valign="middle" width="60%" align="center" style="white-space: nowrap;">
+     <td valign="middle" width="50%" align="center" style="white-space: nowrap;">
       <h1 style="margin: 0; font-weight: bold;">
         Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align: middle;">, I'm Xandrei
       </h1>

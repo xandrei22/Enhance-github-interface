@@ -1,4 +1,4 @@
-<img width="1225" height="84" alt="image" src="https://github.com/user-attachments/assets/8ba354ca-f9f8-4275-a700-ca91af238324" /><h1 align="center">Hi 👋, Im Josh!</h1>
+<h1 align="center">Hi 👋, Im Josh!</h1>
 <h3 align="center">
   Software Engineer | Frontend (React, Tailwind) | Automation & AI Workflows
 </h3>

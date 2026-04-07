@@ -5,9 +5,9 @@
     </td>
      <td valign="middle" width="50%" align="center" style="white-space: nowrap;">
       <h1 style="margin: 0; font-weight: bold;">
-        Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8px" style="vertical-align: middle;">, I'm Xandrei
+        Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="vertical-align: middle;">, I'm Xandrei
       </h1>
-      <h3 style="margin-top: 8px;">
+      <h3 style="margin-top: "20px";">
         Project Manager • QA Analyst • Fullstack Developer • UI/UX Designer
       </h3>
       <p>

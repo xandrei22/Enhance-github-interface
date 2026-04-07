@@ -1,4 +1,4 @@
-<table >
+<table width="100%">
   <tr>
     <td valign="middle" align="right" width="30%">
       <img src="https://your-image-url.com/avatar.png" alt="Xandrei Avatar" width="180" height="180" style="border-radius: 50%;"/>
@@ -19,7 +19,7 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">

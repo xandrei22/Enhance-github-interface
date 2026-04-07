@@ -10,10 +10,9 @@
 
 ---
 
-## 💻 Tech Stack
-
 <p align="center">
-
+## 💻 Tech Stack
+  
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>

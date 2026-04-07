@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Project+Manager;Quality+Assurance+Analyst;Fullstack+Developer;UI%2FUX+Designer;Exploring+AI+and+Automation" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xandrei22&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -60,13 +52,6 @@
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xandrei22&theme=tokyonight&hide_border=true&show_icons=true" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=xandrei22&theme=tokyonight&hide_border=true" />

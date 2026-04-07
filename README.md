@@ -3,11 +3,11 @@
     <td valign="middle" align="right" width="30%">
       <img src="https://your-image-url.com/avatar.png" alt="Xandrei Avatar" width="180" height="180" style="border-radius: 50%;"/>
     </td>
-    <td valign="middle" width="70%">
-      <h1>
-        Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Xandrei
+     <td valign="middle" width="60%" align="center" style="white-space: nowrap;">
+      <h1 style="margin: 0; font-weight: bold;">
+        Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="vertical-align: middle;">, I'm Xandrei
       </h1>
-      <h3>
+      <h3 style="margin-top: 8px;">
         Project Manager • QA Analyst • Fullstack Developer • UI/UX Designer
       </h3>
       <p>

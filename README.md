@@ -1,5 +1,8 @@
 <table width="100%">
   <tr>
+    <td valign="middle" align="right" width="40%">
+      <img src="https://your-image-url.com/avatar.png" alt="Xandrei Avatar" width="180" height="180" style="border-radius: 50%;"/>
+    </td>
     <td valign="middle" width="60%">
       <h1>
         Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Xandrei
@@ -10,9 +13,6 @@
       <p>
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Project+Manager;QA+Analyst;Flexible+Fullstack+Developer;UI%2FUX+Designer;Exploring+AI+and+Automation" alt="Typing SVG"/>
       </p>
-    </td>
-    <td valign="middle" align="right" width="40%">
-      <img src="https://your-image-url.com/avatar.png" alt="Xandrei Avatar" width="180" height="180" style="border-radius: 50%;"/>
     </td>
   </tr>
 </table>

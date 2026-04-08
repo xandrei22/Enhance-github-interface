@@ -116,7 +116,7 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=xandrei22&hide_border=true" />
 
 </div>
 </table>

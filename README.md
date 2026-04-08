@@ -4,6 +4,8 @@
 
 <div align="center">
 
+---
+
 <table width="100%">
   <tr>
     <td valign="middle" align="center" width="30%">

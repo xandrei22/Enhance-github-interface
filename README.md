@@ -76,10 +76,20 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 ### Project Management
 <img src="https://img.shields.io/badge/Trello-026AA7?style=flat&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agile-FF6B35?style=flat&logo=agile&logoColor=white"/>
 
 ### Testing
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pest-7B3FF2?style=flat&logo=pest&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHPUnit-366488?style=flat&logo=phpunit&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Testing-009688?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-4CAF50?style=flat&logo=automation&logoColor=white"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-FF9800?style=flat&logo=testing&logoColor=white"/>
+
+### Tools & Platforms
 
 ### Design
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
@@ -109,6 +119,8 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=gitea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nodemon-323330?style=flat&logo=nodemon&logoColor=BBDEAD"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>

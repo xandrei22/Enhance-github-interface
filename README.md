@@ -111,12 +111,11 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=xandrei22&label=Profile%20Views&color=00d4ff&style=flat)
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xandrei22&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=00d4ff&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xandrei22&layout=compact&langs_count=8&hide_border=false&border_color=00d4ff&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff)
+(https://github-readme-stats.vercel.app/api?username=xandrei22&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=00d4ff&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=xandrei22&layout=compact&langs_count=8&hide_border=false&border_color=00d4ff&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff)
 
 <br/>
 

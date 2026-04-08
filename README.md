@@ -30,7 +30,6 @@
 <table width="100%">
 <tr>
 
-<td colspan="2" align="center">
 <div align="center">
 
 [<img src="https://img.shields.io/badge/Email-joshalexandreisayat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>](mailto:joshalexandreisayat@gmail.com)
@@ -41,7 +40,6 @@
 [<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>](https://github.com/xandrei22)
 
 </div>
-</td>
 
 <td width="50%" valign="top">
 

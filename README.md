@@ -34,25 +34,25 @@
   <td colspan="2" align="center">
 
   <a href="mailto:joshalexandreisayat@gmail.com">
-    <img src="https://img.shields.io/badge/Email-joshalexandreisayat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-joshalexandreisayat%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <img src="https://img.shields.io/badge/Phone-09214733335-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Phone-09214733335-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
   <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/josh-alexandrei-sayat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://github.com/xandrei22" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   </td>

@@ -25,8 +25,6 @@
   </tr>
 </table>
 
-</div>
-
 ---
 
 <table width="100%">

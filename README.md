@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./gif/Hi, I am Josh Alexandrei.gif" width="100%" />
+</div>
+
+<div align="center">
 
 <table width="100%">
   <tr>

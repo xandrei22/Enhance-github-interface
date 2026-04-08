@@ -103,6 +103,7 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 
 </td>
 </tr>
+</table>
 
 ---
 
@@ -119,4 +120,3 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 <img src="https://streak-stats.demolab.com?user=xandrei22&hide_border=true" />
 
 </div>
-</table>

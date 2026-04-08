@@ -114,6 +114,7 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 <img src="https://streak-stats.demolab.com?user=xandrei22&background=0d0d0d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=ffffff&hide_border=false&border=00d4ff&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xandrei22&label=Profile%20Views&color=00d4ff&style=flat)
 

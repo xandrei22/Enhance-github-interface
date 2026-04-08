@@ -89,8 +89,6 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 <img src="https://img.shields.io/badge/Automation-4CAF50?style=flat&logo=automation&logoColor=white"/>
 <img src="https://img.shields.io/badge/Manual%20Testing-FF9800?style=flat&logo=testing&logoColor=white"/>
 
-### Tools & Platforms
-
 ### Design
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>

@@ -34,7 +34,7 @@
 
 <td width="50%" valign="top">
 
-## 🧑‍💻 About Me
+## About Me
 
 I’m **Josh Alexandrei Sayat** with a strong foundation in **project management, quality assurance testing, and fullstack development**.  
 
@@ -48,7 +48,7 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 
 ---
 
-### ⚡ Key Strengths
+### Key Strengths
 - 📊 Project Management & Team Coordination  
 - 🧪 QA & Test Automation  
 - 💻 Fullstack Development (React, Node.js, Next.js)  
@@ -59,40 +59,40 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 
 <td width="50%" valign="top">
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 📊 Project Management
+### Project Management
 <img src="https://img.shields.io/badge/Trello-026AA7?style=flat&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 
-### 🧪 Testing
+### Testing
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white"/>
 
-### 🎨 Design
+### Design
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 
-### 🗄️ Databases
+### Databases
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
 
-### ⚙️ Backend
+### Backend
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
 
-### 💻 Frontend
+### Frontend
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white"/>
 
-### 🚀 Tools & Platforms
+### Tools & Platforms
 <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gitea-609926?style=flat&logo=gitea&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>

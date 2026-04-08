@@ -36,8 +36,11 @@
 
 ## 🧑‍💻 About Me
 
-I’m a **Project Manager & QA Analyst** with a strong foundation in fullstack development.  
+I’m **Josh Alexandrei Sayat** with a strong foundation in **project management, quality assurance testing, and fullstack development**.  
+
 I excel at **planning, coordinating, and ensuring quality** in complex projects while also having the flexibility to **code and implement solutions** when needed.
+
+I specialize in project management and quality assurance, **ensuring that projects are delivered on time, within scope, and aligned with business goals**. By combining strategic planning with **rigorous testing and continuous improvement**, I help teams build reliable, high-quality solutions that meet user expectations.
 
 I build scalable web applications with modern technologies like **React, Node.js, and cloud platforms**, and I bring a **user-focused mindset** to both design and development.
 

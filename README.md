@@ -34,6 +34,56 @@
 
 <td width="50%" valign="top">
 
+---
+
+<!-- CONTACT SECTION -->
+## 📫 Contact Me
+
+<div align="center">
+
+📧 **Email:** <a href="mailto:joshalexandreisayat@gmail.com">joshalexandreisayat@gmail.com</a>  
+📱 **Phone:** 09214733335  
+
+<br/>
+
+<a href="https://www.facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/josh-alexandrei-sayat" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/xandrei22" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- RESUME SECTION -->
+## 📄 Resume
+
+<div align="center">
+
+<a href="./resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20My%20Resume-00d4ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
 ## About Me
 
 I’m **Josh Alexandrei Sayat** with a strong foundation in **project management, quality assurance testing, and fullstack development**.  

@@ -32,9 +32,6 @@
 
 <tr>
   <td colspan="2" align="center">
-
-  <h2>📫 Get in Touch</h2>
-
   📧 <a href="mailto:joshalexandreisayat@gmail.com">joshalexandreisayat@gmail.com</a>  
   📱 09214733335  
 

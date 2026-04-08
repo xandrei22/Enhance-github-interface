@@ -30,6 +30,37 @@
 <table width="100%">
 <tr>
 
+<tr>
+  <td colspan="2" align="center">
+
+  <h2>📫 Get in Touch</h2>
+
+  📧 <a href="mailto:joshalexandreisayat@gmail.com">joshalexandreisayat@gmail.com</a>  
+  📱 09214733335  
+
+  <br/><br/>
+
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/josh-alexandrei-sayat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/xandrei22" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  </td>
+</tr>
+
 <td width="50%" valign="top">
 
 ## About Me

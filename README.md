@@ -32,9 +32,13 @@
 
 <tr>
   <td colspan="2" align="center">
-  📧 <a href="mailto:joshalexandreisayat@gmail.com">joshalexandreisayat@gmail.com</a>  
-  📱 09214733335  
-<br>
+
+  <a href="mailto:joshalexandreisayat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-joshalexandreisayat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/Phone-09214733335-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>
@@ -50,8 +54,6 @@
   <a href="https://github.com/xandrei22" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
   </a>
-
-  <br/><br/>
 
   </td>
 </tr>

@@ -26,16 +26,9 @@
 </table>
 
 </div>
-
 ---
-
 <table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
----
-
 <!-- CONTACT SECTION -->
 ## 📫 Contact Me
 
@@ -76,8 +69,17 @@
 </a>
 
 </div>
+</tr>
+</table>
 
 ---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+
 
 <table width="100%">
 <tr>

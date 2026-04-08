@@ -111,13 +111,13 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 
 <div align="center">
 
-username=xandrei22&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=00d4ff&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=xandrei22&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=00d4ff&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" height="170" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandrei22&layout=compact&langs_count=8&hide_border=false&border_color=00d4ff&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff" height="170" />
 
 <br/>
 
-user=xandrei22&background=0d0d0d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=ffffff&hide_border=false&border=00d4ff&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=xandrei22&background=0d0d0d&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=ffffff&hide_border=false&border=00d4ff&currStreakNum=ffffff&sideNums=ffffff" />
 
 <br/>
 

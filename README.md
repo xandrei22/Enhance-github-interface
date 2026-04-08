@@ -6,48 +6,24 @@
 
 ---
 
-<td valign="middle" width="70%" align="center" style="white-space: nowrap;">
-  <h1 style="margin: 0; font-weight: bold;">
-    Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="vertical-align: middle;">, I'm Xandrei
-  </h1>
-
-  <h3 style="margin-top: 20px;">
-    Project Manager • QA Analyst • Fullstack Developer • UI/UX Designer
-  </h3>
-
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Project+Manager;QA+Analyst;Flexible+Fullstack+Developer;UI%2FUX+Designer;Exploring+AI+and+Automation" alt="Typing SVG"/>
-  </p>
-
-  <!-- CONTACT -->
-  <p style="margin-top: 15px;">
-    📧 <a href="mailto:joshalexandreisayat@gmail.com">joshalexandreisayat@gmail.com</a> |
-    📱 09214733335
-  </p>
-
-  <!-- SOCIALS -->
-  <p>
-    <a href="https://www.facebook.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/josh-alexandrei-sayat" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://instagram.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-    </a>
-    <a href="https://github.com/xandrei22" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>
-    </a>
-  </p>
-
-  <!-- RESUME BUTTON -->
-  <p style="margin-top: 10px;">
-    <a href="./resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Download%20Resume-00d4ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-    </a>
-  </p>
-</td>
+<table width="100%">
+  <tr>
+    <td valign="middle" align="center" width="30%">
+      <img src="./gif/GIF by Endangered Labs.gif" width="180" height="180" style="border-radius: 50%;"/>
+    </td>
+    <td valign="middle" width="70%" align="center" style="white-space: nowrap;">
+      <h1 style="margin: 0; font-weight: bold;">
+        Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" style="vertical-align: middle;">, I'm Xandrei
+      </h1>
+      <h3 style="margin-top: 20px;">
+        Project Manager • QA Analyst • Fullstack Developer • UI/UX Designer
+      </h3>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Project+Manager;QA+Analyst;Flexible+Fullstack+Developer;UI%2FUX+Designer;Exploring+AI+and+Automation" alt="Typing SVG"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 

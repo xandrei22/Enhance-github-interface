@@ -34,9 +34,7 @@
   <td colspan="2" align="center">
   📧 <a href="mailto:joshalexandreisayat@gmail.com">joshalexandreisayat@gmail.com</a>  
   📱 09214733335  
-
-  <br/><br/>
-
+<br>
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
   </a>

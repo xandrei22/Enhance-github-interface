@@ -103,4 +103,20 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 
 </td>
 </tr>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=xandrei22&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xandrei22&layout=compact&langs_count=8&hide_border=true" height="170" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" />
+
+</div>
 </table>

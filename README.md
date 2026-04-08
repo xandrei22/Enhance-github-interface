@@ -30,16 +30,16 @@
 <table width="100%">
 <tr>
 
-<div align="center">
-
-[<img src="https://img.shields.io/badge/Email-joshalexandreisayat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>](mailto:joshalexandreisayat@gmail.com)
-[<img src="https://img.shields.io/badge/Phone-09214733335-25D366?style=flat&logo=whatsapp&logoColor=white"/>](https://wa.me/639214733335)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>](https://www.facebook.com/)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/josh-alexandrei-sayat)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>](https://instagram.com/)
-[<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>](https://github.com/xandrei22)
-
-</div>
+  <tr>
+    <td colspan="2" align="center">
+      [<img src="https://img.shields.io/badge/Email-joshalexandreisayat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>](mailto:joshalexandreisayat@gmail.com)
+      [<img src="https://img.shields.io/badge/Phone-09214733335-25D366?style=flat&logo=whatsapp&logoColor=white"/>](https://wa.me/639214733335)
+      [<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>](https://www.facebook.com/)
+      [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/josh-alexandrei-sayat)
+      [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>](https://instagram.com/)
+      [<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white"/>](https://github.com/xandrei22)
+    </td>
+  </tr>
 
 <td width="50%" valign="top">
 

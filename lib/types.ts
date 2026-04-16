@@ -35,6 +35,7 @@ export interface PortfolioData {
   role: string;
   bio: string;
   heroImage?: string;
+  formalImage?: string;
   about: string;
   skills: Skill[];
   projects: Project[];

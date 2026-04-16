@@ -34,7 +34,7 @@ export default function Home() {
                   <div className="absolute inset-0 bg-gradient-to-tr from-primary to-accent rounded-full blur-2xl opacity-20 animate-pulse" />
                   <div className="relative w-32 h-32 md:w-40 md:h-40 rounded-full border-2 border-primary/20 p-1 bg-background shadow-2xl overflow-hidden">
                     <img 
-                      src="https://picsum.photos/seed/developer/400/400" 
+                      src="/customProfile.png" 
                       alt="Profile" 
                       className="w-full h-full object-cover rounded-full grayscale hover:grayscale-0 transition-all duration-700"
                       referrerPolicy="no-referrer"

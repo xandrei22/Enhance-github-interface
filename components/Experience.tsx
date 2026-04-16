@@ -1,6 +1,6 @@
 "use client";
 
-import { motion } from "motion/react";
+import { motion, AnimatePresence } from "motion/react";
 import { PORTFOLIO_DATA } from "@/lib/constants";
 import { Briefcase, Award, Calendar, X } from "lucide-react";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
@@ -93,7 +93,7 @@ export function Experience() {
               </div>
               <div className="flex items-center gap-2 text-[10px] font-mono text-muted-foreground bg-foreground/5 px-4 py-2 rounded-full border border-border/50 uppercase tracking-widest self-start lg:self-auto">
                 <Calendar className="w-3 h-3" />
-                {item.period || item.date}
+                {isExperience(item) ? item.period : item.date}
               </div>
             </div>
 

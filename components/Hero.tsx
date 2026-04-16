@@ -4,8 +4,11 @@ import { motion } from "motion/react";
 import { ArrowRight, Sparkles, ChevronDown } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { PORTFOLIO_DATA } from "@/lib/constants";
+import { useState } from "react";
 
 export function Hero() {
+  const [isHovering, setIsHovering] = useState(false);
+
   return (
     <section className="relative min-h-screen flex flex-col items-center justify-center pt-20 px-6 overflow-hidden">
       {/* Animated Background Elements */}
@@ -85,16 +88,28 @@ export function Hero() {
           transition={{ duration: 1, delay: 0.3, ease: [0.22, 1, 0.36, 1] }}
           className="hidden lg:flex items-center justify-center w-full h-full"
         >
-          <div className="relative w-full h-[500px] max-w-lg aspect-square">
+          <div className="relative w-full h-[500px] max-w-lg aspect-square" onMouseEnter={() => setIsHovering(true)} onMouseLeave={() => setIsHovering(false)}>
             {/* Decorative Border with Curves */}
             <div className="absolute inset-0 rounded-[40px] border-2 border-primary/30 bg-gradient-to-br from-primary/5 to-transparent backdrop-blur-sm" />
             
             {/* Image Container */}
             <div className="absolute inset-4 rounded-[30px] overflow-hidden bg-gradient-to-br from-primary/10 to-accent/10">
-              <img 
+              {/* Casual Photo */}
+              <motion.img 
                 src={PORTFOLIO_DATA.heroImage || "https://picsum.photos/seed/hero/600/600"} 
                 alt="Portfolio"
-                className="w-full h-full object-cover"
+                animate={{ opacity: isHovering ? 0 : 1 }}
+                transition={{ duration: 0.5 }}
+                className="absolute inset-0 w-full h-full object-cover"
+              />
+              
+              {/* Formal Photo */}
+              <motion.img
+                src={PORTFOLIO_DATA.formalImage || PORTFOLIO_DATA.heroImage}
+                alt="Formal Photo"
+                animate={{ opacity: isHovering ? 1 : 0 }}
+                transition={{ duration: 0.5 }}
+                className="absolute inset-0 w-full h-full object-cover"
               />
             </div>
 

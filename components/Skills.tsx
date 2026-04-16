@@ -35,7 +35,7 @@ export function Skills() {
           </motion.div>
         </div>
 
-        <div className="lg:w-2/3 grid grid-cols-1 sm:grid-cols-2 gap-x-12 gap-y-10">
+        <div className="lg:w-2/3 space-y-12">
           {categories.map((category, idx) => (
             <motion.div
               key={category}
@@ -43,44 +43,25 @@ export function Skills() {
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: idx * 0.1, duration: 0.8 }}
-              className="space-y-8"
+              className="space-y-4"
             >
               <div className="flex items-center gap-4">
-                <h3 className="text-xs font-mono uppercase tracking-[0.4em] text-primary/80 font-bold">{category}</h3>
+                <h3 className="text-xs font-mono uppercase tracking-[0.4em] text-primary/80 font-bold whitespace-nowrap">{category}</h3>
                 <div className="h-[1px] flex-grow bg-gradient-to-r from-primary/30 to-transparent" />
               </div>
               
-              <div className="space-y-6">
+              <div className="flex flex-wrap gap-3">
                 {PORTFOLIO_DATA.skills
                   .filter(s => s.category === category)
-                  .map((skill, sIdx) => (
-                    <motion.div 
+                  .map((skill) => (
+                    <motion.span
                       key={skill.name} 
-                      className="group space-y-3"
-                      whileHover={{ x: 5 }}
+                      className="px-4 py-2 rounded-full bg-foreground/5 border border-foreground/10 text-sm font-medium hover:bg-primary/10 hover:text-primary hover:border-primary/30 transition-all duration-300 cursor-default"
+                      whileHover={{ scale: 1.05 }}
                       transition={{ type: "spring", stiffness: 300 }}
                     >
-                      <div className="flex justify-between items-end">
-                        <span className="text-sm font-medium group-hover:text-primary transition-colors duration-300">{skill.name}</span>
-                        <span className="text-[10px] font-mono text-muted-foreground group-hover:text-foreground transition-colors duration-300">{skill.level}%</span>
-                      </div>
-                      <div className="h-1.5 bg-foreground/5 rounded-full overflow-hidden relative">
-                        <motion.div 
-                          initial={{ width: 0 }}
-                          whileInView={{ width: `${skill.level}%` }}
-                          viewport={{ once: true }}
-                          transition={{ duration: 1.5, delay: idx * 0.1 + sIdx * 0.05, ease: [0.22, 1, 0.36, 1] }}
-                          className="h-full bg-gradient-to-r from-primary to-accent relative z-10"
-                        />
-                        <motion.div 
-                          initial={{ width: 0 }}
-                          whileInView={{ width: `${skill.level}%` }}
-                          viewport={{ once: true }}
-                          transition={{ duration: 1.5, delay: idx * 0.1 + sIdx * 0.05 + 0.2, ease: [0.22, 1, 0.36, 1] }}
-                          className="absolute inset-0 bg-primary/20 blur-sm"
-                        />
-                      </div>
-                    </motion.div>
+                      {skill.name}
+                    </motion.span>
                   ))}
               </div>
             </motion.div>

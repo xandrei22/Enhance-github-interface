@@ -172,8 +172,7 @@ export function Contact() {
               {currentIndex + 1} / {projects.length}
             </div>
           </div>
-        </div>
-      </motion.div>
+        </motion.div>
       </div>
     </section>
   );

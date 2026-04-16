@@ -3,6 +3,7 @@
 import { motion } from "motion/react";
 import { Terminal, Github, Linkedin, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { PORTFOLIO_DATA } from "@/lib/constants";
 import { useState, useEffect } from "react";
 import { ThemeToggle } from "./ThemeToggle";
 
@@ -82,9 +83,15 @@ export function Navbar() {
             <Linkedin className="w-4 h-4" />
           </a>
         </Button>
-        <Button className="hidden sm:flex gap-2 rounded-full px-6 bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:scale-105 active:scale-95">
-          <Mail className="w-4 h-4" />
-          Hire Me
+        <Button className="hidden sm:flex gap-2 rounded-full px-6 bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg shadow-primary/20 transition-all duration-300 hover:scale-105 active:scale-95" asChild>
+          <a 
+            href={`https://mail.google.com/mail/?view=cm&fs=1&to=${PORTFOLIO_DATA.name}%20%3C${PORTFOLIO_DATA.socials.email}%3E&subject=Job+Inquiry`}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Mail className="w-4 h-4" />
+            Hire Me
+          </a>
         </Button>
       </div>
     </motion.nav>

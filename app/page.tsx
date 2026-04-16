@@ -6,7 +6,7 @@ import { TechStack } from "@/components/TechStack";
 import { Skills } from "@/components/Skills";
 import { Projects } from "@/components/Projects";
 import { Experience } from "@/components/Experience";
-import { Contact } from "@/components/Contact";
+import { Gallery } from "@/components/Gallery";
 import { Footer } from "@/components/Footer";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { motion } from "motion/react";
@@ -68,7 +68,7 @@ export default function Home() {
           <Skills />
           <Projects />
           <Experience />
-          <Contact />
+          <Gallery />
         </main>
         <Footer />
       </div>

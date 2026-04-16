@@ -48,6 +48,46 @@ export const PORTFOLIO_DATA: PortfolioData = {
       image: "https://picsum.photos/seed/portfolio/800/600",
       github: "https://github.com/xandrei22",
       link: "https://ja1.vercel.app/"
+    },
+    {
+      title: "Seminar Attendance 2024",
+      description: "Professional development at technology seminar",
+      tags: [],
+      image: "https://picsum.photos/seed/seminar1/800/600",
+      github: "",
+      link: ""
+    },
+    {
+      title: "Achievement Certificate",
+      description: "Professional achievement recognition",
+      tags: [],
+      image: "https://picsum.photos/seed/achievement/800/600",
+      github: "",
+      link: ""
+    },
+    {
+      title: "Conference 2024",
+      description: "Networking and learning opportunity",
+      tags: [],
+      image: "https://picsum.photos/seed/conference/800/600",
+      github: "",
+      link: ""
+    },
+    {
+      title: "Workshop Experience",
+      description: "Skills development and training",
+      tags: [],
+      image: "https://picsum.photos/seed/workshop/800/600",
+      github: "",
+      link: ""
+    },
+    {
+      title: "Team Meeting",
+      description: "Collaboration and teamwork",
+      tags: [],
+      image: "https://picsum.photos/seed/team/800/600",
+      github: "",
+      link: ""
     }
   ],
   experience: [

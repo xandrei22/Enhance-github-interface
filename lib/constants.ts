@@ -5,7 +5,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
   role: "Project Manager • QA Analyst • Fullstack Developer • UI/UX Designer",
   bio: "Passionate about building scalable solutions with a strong foundation in project management, quality assurance, and fullstack development.",
   heroImage: "/me.jpg",
-  formalImage: "/me-formal.jpg",
+  formalImage: "/meFormal.png",
   about: "I'm Xandrei with a strong foundation in project management, quality assurance testing, and fullstack development. I excel at planning, coordinating, and ensuring quality in complex projects while having the flexibility to work on both custom solutions and implementations. I specialize in project management and quality assurance, ensuring that projects are delivered on time, within scope, and aligned with business goals. By combining strategic planning with rigorous testing and continuous improvement, I help teams build reliable, high-quality solutions that meet user expectations. I build scalable web applications with modern technologies like React, Node.js, and cloud platforms, bringing a user-focused mindset to both design and development. I'm currently exploring AI and automation workflows to make teams more efficient and projects smarter.",
   skills: [
     { name: "React / Next.js", category: "Frontend", level: 95 },

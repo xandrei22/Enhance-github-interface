@@ -42,8 +42,8 @@ export function Connect() {
             <MessageSquare className="w-7 h-7 text-accent" />
           </div>
           <div>
-            <p className="text-[10px] font-mono uppercase tracking-widest text-muted-foreground mb-1">Socials</p>
-            <p className="font-medium text-lg">@alexchen_dev</p>
+            <p className="text-[10px] font-mono uppercase tracking-widest text-muted-foreground mb-1">Contact No.</p>
+            <p className="font-medium text-lg">{PORTFOLIO_DATA.socials.phone}</p>
           </div>
         </motion.div>
       </div>

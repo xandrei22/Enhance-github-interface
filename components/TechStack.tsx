@@ -2,21 +2,44 @@
 
 import { motion } from "motion/react";
 import { 
-  Cpu, Code2, Database, Globe, Layers, Layout, 
-  MessageSquare, Settings, Smartphone, Zap 
+  Code2, Layout, Zap, Layers, Database, Globe, 
+  Settings, Shield, Trello, Palette, Github, Cloud,
+  Server, Bug, CheckCircle, ListChecks, Mail, Lock,
+  Terminal, Cpu, BrainCircuit, Network
 } from "lucide-react";
 
 const techIcons = [
+  // Frontend
+  { icon: Layout, name: "React / Next.js" },
+  { icon: Zap, name: "Vite" },
   { icon: Code2, name: "TypeScript" },
-  { icon: Layout, name: "React" },
-  { icon: Zap, name: "Next.js" },
-  { icon: Layers, name: "Tailwind" },
-  { icon: Database, name: "PostgreSQL" },
-  { icon: Globe, name: "Node.js" },
-  { icon: Cpu, name: "AI/ML" },
-  { icon: Settings, name: "Docker" },
-  { icon: Smartphone, name: "Mobile" },
-  { icon: MessageSquare, name: "LLMs" },
+  { icon: Layers, name: "Tailwind CSS / Bootstrap" },
+  // Backend
+  { icon: Server, name: "Node.js / Express" },
+  { icon: Terminal, name: "FastAPI / Laravel" },
+  // Database
+  { icon: Database, name: "PostgreSQL / MySQL / MongoDB" },
+  { icon: Cloud, name: "Supabase" },
+  // Testing
+  { icon: Bug, name: "Playwright / API Testing" },
+  { icon: Globe, name: "REST / Postman" },
+  { icon: CheckCircle, name: "Manual Testing & Automation" },
+  // Project Management
+  { icon: Trello, name: "Jira / Trello / Notion" },
+  { icon: ListChecks, name: "Scrum / Agile" },
+  // Design
+  { icon: Palette, name: "Figma / Canva" },
+  // Tools
+  { icon: Github, name: "Git / GitHub" },
+  { icon: Cloud, name: "Vercel / Google Cloud" },
+  { icon: Mail, name: "Google Workspace" },
+  { icon: Settings, name: "Microsoft" },
+  // Security
+  { icon: Terminal, name: "Kali Linux" },
+  { icon: Shield, name: "Burp Suite" },
+  { icon: Lock, name: "OWASP ZAP" },
+  { icon: Network, name: "Nmap" },
+  { icon: Cpu, name: "Nikto" },
 ];
 
 export function TechStack() {

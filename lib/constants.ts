@@ -182,7 +182,7 @@ export const PORTFOLIO_DATA: PortfolioData = {
   socials: {
     github: "https://github.com/xandrei22",
     linkedin: "https://www.linkedin.com/in/josh-alexandrei-sayat/",
-    facebook: "https://facebook.com",
+    facebook: "https://www.facebook.com/josh.sayat.2024",
     instagram: "https://instagram.com",
     email: "joshalexandreisayat@gmail.com",
     phone: "+63 921 733 3335"

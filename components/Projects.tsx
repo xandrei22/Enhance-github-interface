@@ -6,8 +6,12 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Github, ExternalLink, Folder } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { useState } from "react";
 
 export function Projects() {
+  const [showAll, setShowAll] = useState(false);
+  const featuredProjects = PORTFOLIO_DATA.projects.slice(0, 3);
+  const projectsToDisplay = showAll ? PORTFOLIO_DATA.projects : featuredProjects;
   return (
     <section id="projects" className="py-32 px-6 bg-foreground/[0.01]">
       <div className="max-w-7xl mx-auto">
@@ -30,13 +34,17 @@ export function Projects() {
               A selection of projects that demonstrate my technical capabilities and commitment to high-quality software engineering.
             </p>
           </motion.div>
-          <Button variant="outline" className="rounded-full glass hover:bg-foreground/10 px-8 h-12 transition-all duration-500 hover:scale-105 active:scale-95">
-            View All Projects
+          <Button 
+            onClick={() => setShowAll(!showAll)}
+            variant="outline" 
+            className="rounded-full glass hover:bg-foreground/10 px-8 h-12 transition-all duration-500 hover:scale-105 active:scale-95"
+          >
+            {showAll ? "Show Less" : "View All Projects"}
           </Button>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
-          {PORTFOLIO_DATA.projects.map((project, idx) => (
+          {projectsToDisplay.map((project, idx) => (
             <motion.div
               key={project.title}
               initial={{ opacity: 0, y: 40 }}

@@ -1,7 +1,8 @@
 "use client";
 
 import { motion } from "motion/react";
-import { Terminal, Github, Linkedin, Mail } from "lucide-react";
+import Image from "next/image";
+import { Github, Linkedin, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { PORTFOLIO_DATA } from "@/lib/constants";
 import { useState, useEffect } from "react";
@@ -40,15 +41,21 @@ export function Navbar() {
       }`}
     >
       <div className="flex items-center gap-2 group cursor-pointer" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
-        <div className="p-2 bg-primary/10 rounded-xl group-hover:bg-primary/20 transition-all duration-300 group-hover:rotate-12">
-          <Terminal className="w-5 h-5 text-primary" />
+        <div className="bg-primary/10 rounded-full group-hover:bg-primary/20 transition-all duration-300 group-hover:rotate-12">
+          <Image 
+            src="/jaslogo.png" 
+            alt="JAS Logo" 
+            width={48} 
+            height={48} 
+            className="w-12 h-12"
+          />
         </div>
         <span className="font-mono font-bold text-lg tracking-tighter uppercase">
-          Dev<span className="text-primary">Port</span>
+          JA<span className="text-primary">S</span>
         </span>
       </div>
 
-      <div className="hidden md:flex items-center gap-1 p-1 rounded-full bg-foreground/5 border border-foreground/5">
+      <div className="hidden md:flex items-center gap-1 p-1 rounded-full bg-foreground/5 border border-foreground/5 absolute left-1/2 -translate-x-1/2">
         {navItems.map((item) => (
           <a 
             key={item} 

@@ -69,13 +69,13 @@ export function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.8, duration: 0.8 }}
-            className="flex flex-col sm:flex-row items-center justify-center gap-6"
+            className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full sm:w-auto"
           >
-            <Button size="lg" className="h-16 px-10 text-lg gap-3 rounded-full group bg-primary hover:bg-primary/90 text-primary-foreground shadow-xl shadow-primary/20 transition-all duration-500 hover:scale-105 active:scale-95">
+            <Button size="lg" className="h-12 sm:h-16 px-6 sm:px-10 text-base sm:text-lg gap-3 rounded-full group bg-primary hover:bg-primary/90 text-primary-foreground shadow-xl shadow-primary/20 transition-all duration-500 hover:scale-105 active:scale-95 w-full sm:w-auto">
               View Projects
               <ArrowRight className="w-5 h-5 group-hover:translate-x-2 transition-transform duration-300" />
             </Button>
-            <Button size="lg" variant="outline" className="h-16 px-10 text-lg rounded-full glass hover:bg-foreground/10 transition-all duration-500 hover:scale-105 active:scale-95">
+            <Button size="lg" variant="outline" className="h-12 sm:h-16 px-6 sm:px-10 text-base sm:text-lg rounded-full glass hover:bg-foreground/10 transition-all duration-500 hover:scale-105 active:scale-95 w-full sm:w-auto">
               Download CV
             </Button>
           </motion.div>

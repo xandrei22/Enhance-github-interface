@@ -13,11 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Josh Sayat",
+  title: "Josh Sayatwhere",
   description: "A sleek, professional portfolio for developers and students featuring project showcases, skill visualizations, and a modern dark-mode aesthetic.",
-  icons: {
-    icon: "/jaslogo.png",
-  },
 };
 
 export default function RootLayout({

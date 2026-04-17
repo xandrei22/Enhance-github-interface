@@ -46,5 +46,8 @@ export interface PortfolioData {
     linkedin?: string;
     twitter?: string;
     email?: string;
+    facebook?: string;
+    instagram?: string;
+    phone?: string;
   };
 }

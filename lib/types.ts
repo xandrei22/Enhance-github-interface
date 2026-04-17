@@ -26,7 +26,7 @@ export interface Certificate {
 
 export interface Skill {
   name: string;
-  category: 'Frontend' | 'Backend' | 'Tools' | 'Other';
+  category: 'Frontend' | 'Backend' | 'Database' | 'Testing' | 'Project Management' | 'Design' | 'Security' | 'Tools' | 'Other';
   level: number; // 0-100
 }
 

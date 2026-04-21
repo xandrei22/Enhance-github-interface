@@ -126,12 +126,12 @@ I’m currently exploring **AI and automation workflows** to make teams more eff
 ## AI Assisting Tools
 
 ### AI & Automation
-<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-FF6F61?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-FF6F61?style=flat&logo=anthropic&logoColor=white"/>
 
 ### AI for Development
-<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/Code%20Generation-4CAF50?style=flat&logo=code&logoColor=white"/> <img src="https://img.shields.io/badge/Debugging%20Assistance-FF9800?style=flat&logo=bugatti&logoColor=white"/> <img src="https://img.shields.io/badge/Test%20Case%20Generation-9C27B0?style=flat&logo=testing-library&logoColor=white"/> <img src="https://img.shields.io/badge/API%20Automation-009688?style=flat&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"/> <img src="https://img.shields.io/badge/Code%20Generation-4CAF50?style=flat&logo=code&logoColor=white"/> <img src="https://img.shields.io/badge/Debugging%20Assistance-FF9800?style=flat&logo=bugatti&logoColor=white"/> <img src="https://img.shields.io/badge/API%20Automation-009688?style=flat&logo=postman&logoColor=white"/>
 ### AI for Productivity
-<img src="https://img.shields.io/badge/Prompt%20Engineering-673AB7?style=flat&logo=probot&logoColor=white"/> <img src="https://img.shields.io/badge/Workflow%20Automation-2196F3?style=flat&logo=zapier&logoColor=white"/> <img src="https://img.shields.io/badge/Content%20Generation-E91E63?style=flat&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-673AB7?style=flat&logo=probot&logoColor=white"/> <img src="https://img.shields.io/badge/Content%20Generation-E91E63?style=flat&logo=notion&logoColor=white"/>
 
 </td>
 </tr>
